@@ -1,0 +1,10 @@
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\bin\Debug\Latham_Project3A.exe.config
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\bin\Debug\Latham_Project3A.exe
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\bin\Debug\Latham_Project3A.pdb
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\obj\Debug\Latham_Project3A.csprojAssemblyReference.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\obj\Debug\Latham_Project3A.Properties.Resources.resources
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\obj\Debug\Latham_Project3A.csproj.GenerateResource.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\obj\Debug\Latham_Project3A.csproj.CoreCompileInputs.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\obj\Debug\Latham_Project3A.exe
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\obj\Debug\Latham_Project3A.pdb
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\Project3\Latham_Project3A\Latham_Project3A\obj\Debug\Latham_Project3A.frmCalorie.resources
